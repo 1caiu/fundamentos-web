@@ -1,0 +1,51 @@
+/* estilos da página index.html*/
+
+.center {
+    text-align: center;
+}
+
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center ;
+    align-items: center;
+  }
+  
+  #menu li {
+      display: inline;
+      padding: 10px;
+  }
+
+  #menu li a {
+      text-decoration: none;
+      color: pink;
+      font-size: 20px;
+
+  }
+
+  #menu li a:hover{
+      color: gray;
+
+  }
+
+  .pad30 {
+    padding: 30px;
+  }
+  
+  .br-50 {
+      border-radius: 80%;
+  }
+
+
+
+/* estilos da página sobre mim.html*/
+
+    .cor-pink  {
+        color: pink;
+    }
+
+
+
+
+/* estilos da página fale comigo.html*/
